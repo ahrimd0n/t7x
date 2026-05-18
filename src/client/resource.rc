@@ -75,14 +75,12 @@ BEGIN
             VALUE "FileDescription", "Call of Duty® Black Ops III Client"
             VALUE "OriginalFilename", "t7x.exe"
             VALUE "InternalName", "t7x.exe"
-            VALUE "LegalCopyright", "Copyright (C) 2025 AlterWare. All rights reserved."
+            VALUE "LegalCopyright", "Copyright (C) 2026 AlterWare. All rights reserved."
             VALUE "LegalTrademarks", "Call of Duty® is a trademark of Activision Publishing, Inc."
             VALUE "License", "GPLv3"
             VALUE "Info", "https://git.rimmyscorner.com/Rim/t7x"
             VALUE "SupportUrl", "https://git.rimmyscorner.com/Rim/t7x/issues"
             VALUE "Comments", "Fork of https://github.com/alterware/t7x"
-			VALUE "BuildDate", BUILD_DATE
-            VALUE "BuildTime", BUILD_TIME
 			VALUE "BuildType", "Release"
             VALUE "FileVersion", VERSION_FILE
             VALUE "ProductVersion", VERSION_PRODUCT
