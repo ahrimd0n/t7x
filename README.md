@@ -1,7 +1,7 @@
 # T7x: Call of Duty® Black Ops III Client
 
 [![discord](https://img.shields.io/endpoint?url=https://momo5502.com/iw4x/members-badge.php)](https://discord.gg/sKeVmR3)
-[![website](https://img.shields.io/badge/Repackers-_Website-blue)](https://rimmyscorner.com/)
+[![website](https://img.shields.io/badge/Repackers-_Website-blue)](https://rimslair.dev/)
 
 <p align="center">
   <img src="assets/gitea/banner-t7x.png?raw=true" />
@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > T7x is cross-compatible with the BOIII Client. You can play the same servers on T7x and BOIII Client, however T7x is newer.
 > You are <u>***NOT***</u> required to own Call of Duty: Black Ops 3 in order to play this client. Steam Ownership Verification has been <u>***removed***</u>.
-> You can view the changes made from original repository [here](https://git.rimmyscorner.com/Rim/t7x/compare/3e75c64ece0527dec384829dc28dd2c9d3ce5370..HEAD).
+> You can view the changes made from original repository [here](https://git.rimslair.dev/Rim/t7x/compare/3e75c64ece0527dec384829dc28dd2c9d3ce5370..HEAD).
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## Client Download
 
-[Click here for all client related downloads](https://git.rimmyscorner.com/Rim/t7x/releases/latest)
+[Click here for all client related downloads](https://git.rimslair.dev/Rim/t7x/releases/latest)
 
 ## Prerequisites
 
@@ -68,10 +68,10 @@
 
 ### <u>Installer</u>
 
-1. Download or compile [`t7x-Installer-Win64.exe`](https://git.rimmyscorner.com/Rim/t7x/releases/download/latest/t7x-Installer-Win64.exe)
+1. Download or compile [`t7x-Installer-Win64.exe`](https://git.rimslair.dev/Rim/t7x/releases/download/latest/t7x-Installer-Win64.exe)
 1. Place in Call of Duty Infinite Warfare game directory and run
 
-(*The installer is fully [Open Source](https://git.rimmyscorner.com/Rim/t7x/src/branch/main/installer/t7x_Installer.nsi) and created using NSIS*)
+(*The installer is fully [Open Source](https://git.rimslair.dev/Rim/t7x/src/branch/main/installer/t7x_Installer.nsi) and created using NSIS*)
 
 > [!TIP]
 >
@@ -108,7 +108,7 @@ The Uninstaller:
 3. Run the following command:
 
     ```bash
-    git clone http://git.rimmyscorner.com/Rim/t7x.git
+    git clone http://git.rimslair.dev/Rim/t7x.git
     ```
 
 ## Repository Contents
@@ -144,7 +144,7 @@ If you don't have git installed on your machine, follow these steps:
 ## Where Can I Get the Game?
 
 1. You can get the game on [Steam](https://store.steampowered.com/agecheck/app/292730/) (preferred)
-2. If you can't afford the game. Oh well, you tried. You can get the game files for free [directly](https://gofile.io/d/7pvpEs) or torrent them [here](https://git.rimmyscorner.com/Rim/cod-games-download/releases/download/latest/t7_full_game.zip).
+2. If you can't afford the game. Oh well, you tried. You can get the game files for free [directly](https://gofile.io/d/7pvpEs) or torrent them [here](https://git.rimslair.dev/Rim/cod-games-download/releases/download/latest/t7_full_game.zip).
 
 > [!NOTE]
 > The DLC torrent is included.
@@ -193,7 +193,7 @@ The client will work just fine with the pirated files. As the end user, you need
 
 1. **Download the Mod or Map**
 
-   Use the *[T7x Workshop Downloader (T7xWD)](https://git.rimmyscorner.com/Rim/T7x-Workshop-Downloader/releases)* to download the desired content.
+   Use the *[T7x Workshop Downloader (T7xWD)](https://git.rimslair.dev/Rim/T7x-Workshop-Downloader/releases)* to download the desired content.
 
 2. **Create the Folders (If They Don’t Exist)**
 
@@ -299,7 +299,7 @@ If the server still instantly closes, check the `console_mp.log` from `Unranked 
 
 ### Build
 
-Clone the Git repository using `git clone https://git.rimmyscorner.com/Rim/iw7-mod.git` (It is recommended to clone, however you can `Download ZIP` as all submodules have been localized).
+Clone the Git repository using `git clone https://git.rimslair.dev/Rim/iw7-mod.git` (It is recommended to clone, however you can `Download ZIP` as all submodules have been localized).
 
 #### Build Using Scripts
 
