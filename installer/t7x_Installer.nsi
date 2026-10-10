@@ -2,6 +2,8 @@
 !include "WinVer.nsh"
 !include "nsDialogs.nsh"
 
+SetCompressor /SOLID lzma
+
 ; Constants
 !define PRODUCT_NAME "T7x"
 !define PRODUCT_DESCRIPTION "Call of Duty® Black Ops III Client"
